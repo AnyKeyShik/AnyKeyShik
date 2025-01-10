@@ -149,7 +149,7 @@
     &nbsp;
   </a>
 </p>
-<br/><br/><br/>
+<br/><br/>
 <hr/>
 
 <img align="center" src="./components/titles/projects.png" width="100%" alt="Projects Section Title" />
@@ -181,7 +181,7 @@
     </td>
   </tr>
 </table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
 
 <img align="center" src="./components/titles/activity.png" width="100%" alt="Activity Section Title" />
