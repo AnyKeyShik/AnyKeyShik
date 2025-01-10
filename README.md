@@ -43,7 +43,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=C" width="65px" alt="C icon"/><br/>
+      <img src="https://skillicons.dev/icons?i=c" width="65px" alt="C icon"/><br/>
       <sub>
         <b>
           <pre>C</pre>
