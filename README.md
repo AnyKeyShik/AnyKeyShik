@@ -149,7 +149,7 @@
     &nbsp;
   </a>
 </p>
-<br/><br/>
+<br/><br/><br/>
 <hr/>
 
 <img align="center" src="./components/titles/projects.png" width="100%" alt="Projects Section Title" />
