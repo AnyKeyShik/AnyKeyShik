@@ -153,8 +153,7 @@
 <hr/>
 
 <img align="center" src="./components/titles/projects.png" width="100%" alt="Projects Section Title" />
-<img align="left" src="./images/miko-show.png" height="650px" alt="Miko show" />
-<table height="650px" align="right">
+<table align="center">
   <tr>
     <td>
     <a href="https://github.com/AnyKeyShik/SimpleKernel" target="_blank">
