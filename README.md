@@ -152,9 +152,9 @@
 <br/><br/><br/>
 <hr/>
 
-<img<img align="left" src="./images/miko-show.png" height="491px" alt="Garoto programando, trabalhando em seus projetos pessoais" />
-<table height="491px" align="right"> align="center" src="./components/titles/projects.png" width="100%" alt="Projects Section Title" />
-<table align="center">
+<img align="center" src="./components/titles/projects.png" width="100%" alt="Projects Section Title" />
+<img align="left" src="./images/miko-show.png" height="491px" alt="Garoto programando, trabalhando em seus projetos pessoais" />
+<table height="491px" align="right">
   <tr>
     <td>
     <a href="https://github.com/AnyKeyShik/SimpleKernel" target="_blank">
