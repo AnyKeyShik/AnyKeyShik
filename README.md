@@ -20,7 +20,7 @@
     </details>
   </li>
 </ul>
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
 
 <img align="center" src="./components/titles/stack.png" width="100%" alt="My Stack Section Title" />
@@ -136,7 +136,6 @@
     </td>
   </tr>
 </table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
 
 <img align="center" src="./components/titles/contact.png" width="100%" alt="Contact Section Title" />
@@ -152,12 +151,12 @@
     &nbsp;
   </a>
 </p>
-<br/><br/>
+<br/><br/><br/><br/><br/>
 <hr/>
 
 <img align="center" src="./components/titles/projects.png" width="100%" alt="Projects Section Title" />
 <img align="left" src="./images/miko-show.png" height="650px" alt="Miko show" />
-<table height="650px" align="right">
+<table height="750px" align="right">
   <tr>
     <td>
     <a href="https://github.com/AnyKeyShik/SimpleKernel" target="_blank">
@@ -176,7 +175,7 @@
     <td>
     <a href="https://github.com/AnyKeyShik/HelloWorld" target="_blank">
       <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=AnyKeyShik&repo=HelloWorld&theme=tokyonight&hide_border=true"/>
-  </a>
+    </a>
     </td>
   </tr>
 </table>
