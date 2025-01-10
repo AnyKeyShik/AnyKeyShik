@@ -20,7 +20,7 @@
     </details>
   </li>
 </ul>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 <hr/>
 
 <img align="center" src="./components/titles/stack.png" width="100%" alt="My Stack Section Title" />
@@ -66,8 +66,6 @@
         </b>
       </sub>
     </td>
-  </tr>
-    <tr>
     <td align="center">
         <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="Docker icon"/><br/>
         <sub>
@@ -100,6 +98,8 @@
           </b>
         </sub>
     </td>
+    </tr>
+    <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=neovim" width="65px" alt="NeoVim icon"/><br/>
       <sub>
@@ -108,8 +108,6 @@
         </b>
       </sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nginx" width="65px" alt="nginx icon"/><br/>
         <sub>
@@ -151,7 +149,7 @@
     &nbsp;
   </a>
 </p>
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 <hr/>
 
 <img align="center" src="./components/titles/projects.png" width="100%" alt="Projects Section Title" />
@@ -179,7 +177,6 @@
     </td>
   </tr>
 </table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
 
 <img align="center" src="./components/titles/activity.png" width="100%" alt="Activity Section Title" />
