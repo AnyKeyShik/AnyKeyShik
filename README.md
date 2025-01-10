@@ -152,7 +152,8 @@
 <br/><br/><br/>
 <hr/>
 
-<img align="center" src="./components/titles/projects.png" width="100%" alt="Projects Section Title" />
+<img<img align="left" src="https://raw.githubusercontent.com/Luk4x/Luk4x/refs/heads/main/images/projects-wallpaper.gif" height="491px" alt="Garoto programando, trabalhando em seus projetos pessoais" />
+<table height="491px" align="right"> align="center" src="./components/titles/projects.png" width="100%" alt="Projects Section Title" />
 <table align="center">
   <tr>
     <td>
