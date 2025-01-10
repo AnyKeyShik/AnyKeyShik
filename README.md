@@ -24,7 +24,7 @@
 <hr/>
 
 <img align="center" src="./components/titles/stack.png" width="100%" alt="My Stack Section Title" />
-<table align="right" height="378px">
+<table>
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="Bash icon"/><br/>
